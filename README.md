@@ -1,2 +1,3 @@
 # ClientsAPI
-![ClientAPI](https://github.com/Nikola046/ClientsAPI/assets/88964904/883c9371-2cac-40d4-8efc-af53e63ae402)
+
+![ClientAPI](https://github.com/Nikola046/ClientsAPI/assets/88964904/906206bf-c394-4ed6-b83e-3d273cbfbb87)
